@@ -12,7 +12,7 @@ jobs:
           name: akaoqiei
           command: |
             ls
-            slepe
+            sleep 6s
 
   akaoqie2:
     docker:
